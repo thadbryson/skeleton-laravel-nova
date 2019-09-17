@@ -1,0 +1,27 @@
+##
+# Laravel
+##
+public/storage
+public/hot
+storage/*.key
+.env
+
+##
+# Composer
+##
+vendor/
+
+##
+# Node
+##
+node_modules/
+npm-debug.log
+yarn-error.log
+# Logs
+logs
+*.log
+
+##
+# PhPStorm
+##
+/.idea/
